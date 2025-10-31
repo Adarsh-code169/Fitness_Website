@@ -19,8 +19,8 @@ Auth	JWT / bcrypt
 Extras	Dotenv, REST API architecture
 📂 Folder Structure
 fitness-slot-booking-app/
- ┣ 📁 client     # React Frontend
- ┣ 📁 server     # Node/Express Backend
+ ┣ 📁 client     
+ ┣ 📁 server   
  ┣ 📄 README.md
  ┗ 📄 package.json
 
@@ -32,7 +32,7 @@ cd Fitness-Slot-Booking-App
 ✅ 2️⃣ Setup Server
 cd server
 npm install
-cp .env.example .env   # create env file
+cp .env.example .env  
 npm run dev
 
 ✅ 3️⃣ Setup Client
@@ -78,9 +78,6 @@ git checkout -b feature-name
 git commit -m "Added new feature"
 git push origin feature-name
 
-📜 License
-
-MIT License © 2025 — Your Name
 
 💡 Future Enhancements
 
