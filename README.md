@@ -26,7 +26,7 @@ fitness-slot-booking-app/
 
 ⚙️ Installation & Setup
 ✅ 1️⃣ Clone Repo
-git clone https://github.com/YourUsername/Fitness-Slot-Booking-App.git
+git clone https://github.com/Adarsh-code169/Fitness-Slot-Booking-App.git
 cd Fitness-Slot-Booking-App
 
 ✅ 2️⃣ Setup Server
